@@ -6,6 +6,6 @@
 - 😄 Pronouns: ela/dela
 - </div>
 
--  <a href-"https://github.com/jcarvalho559-cloud">
-- <a href-"https://www.linkedin.com/in/joana-sousa91">
+-  <a href-"https://github.com/jcarvalho559-cloud/">
+- <a href-"https://www.linkedin.com/in/joana-sousa91/">
 
