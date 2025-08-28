@@ -1,8 +1,5 @@
-## Olá! Eu sou a Joana D'arc
+## Olá Pessoal! Me chamo Joana D'arc
 
-Como parte da minha jornada de desenvolvimento profissional, dediquei um tempo para reestruturar meus perfis no LinkedIn e no GitHub, aplicando as melhores práticas de personal branding e documentação de projetos.
-
-O objetivo é apresentar, de forma clara, minhas competências, meus projetos e meus objetivos de carreira na área de tecnologia.
 
 Convido todos a se conectarem e darem uma olhada! Feedback é sempre bem-vindo.
 
