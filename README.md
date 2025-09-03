@@ -5,6 +5,10 @@ Convido todos a se conectarem e darem uma olhada! Feedback é sempre bem-vindo.
 
 - 🔭- Hoje trabalho como Gerente Comercial
 - 🌱- Cursando Tecnologia Análise e Desenvolvimento de Sistema
+Trabalho em Equipe: Experiência em ambientes colaborativos para atingir metas comuns.
+Liderança: Capacidade de motivar e guiar equipes em direção a um objetivo.
+
+
 - 📫- Contate-me no email: jcarvalho559@gmail.com
 - 😄 Pronouns: ela/dela
 - </div>
