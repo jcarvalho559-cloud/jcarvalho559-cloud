@@ -2,7 +2,13 @@
 
 **`Graduando em Análise e Desenvolvimento de Sistema`**
 
-Me chamo Joana D'arc Carvalho de Sousa, tenho 34 anos e sou natural de Teresina-PI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas,pela Instituição Cruzeiro do Sul.
+Me chamo Joana D'arc Carvalho de Sousa, tenho 34 anos e sou natural de Teresina-PI. Estou cursando Análise e Desenvolvimento de Sistemas,pela Instituição Cruzeiro do Sul.
+
+🔭- Hoje trabalho como Gerente Comercial
+
+🌱-  Experiência em ambientes colaborativos para atingir metas comuns. Liderança: Capacidade de motivar e orientar equipes em direção a um objetivo.
+
+
 
 
 
